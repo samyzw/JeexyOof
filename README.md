@@ -1,5 +1,3 @@
-### Hey 👋
-# Putting Linux & Discord on all the thing I see 
-#-> Learning Python & C#
+mainly study stuff
 
-#-> NSwitch Modder
+feel free to use it (creds)
